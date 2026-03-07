@@ -1,0 +1,118 @@
+{
+  "download_date": "2026-02-08T17:06:01.350191",
+  "data_directory": "data",
+  "datasets": {
+    "360_viewport": {
+      "files": [
+        "video1_user1.csv",
+        "video2_user1.csv",
+        "video2_user2.csv",
+        "video2_user3.csv",
+        "video2_user4.csv",
+        "video2_user5.csv",
+        "video3_user1.csv"
+      ],
+      "file_count": 7,
+      "size_mb": 0.18
+    },
+    "hsdpa_traces": {
+      "files": [
+        "att_down.txt",
+        "tmobile_down.txt",
+        "tmobile_up.txt",
+        "verizon_down.txt",
+        "verizon_up.txt"
+      ],
+      "file_count": 5,
+      "size_mb": 0.01
+    },
+    "pensieve_traces": {
+      "files": [],
+      "file_count": 0,
+      "size_mb": 0.0
+    },
+    "salient360": {
+      "files": [],
+      "file_count": 0,
+      "size_mb": 0.0
+    },
+    "synthetic_traces": {
+      "files": [
+        "synthetic_trace_001.txt",
+        "synthetic_trace_002.txt",
+        "synthetic_trace_003.txt",
+        "synthetic_trace_004.txt",
+        "synthetic_trace_005.txt",
+        "synthetic_trace_006.txt",
+        "synthetic_trace_007.txt",
+        "synthetic_trace_008.txt",
+        "synthetic_trace_009.txt",
+        "synthetic_trace_010.txt",
+        "synthetic_trace_011.txt",
+        "synthetic_trace_012.txt",
+        "synthetic_trace_013.txt",
+        "synthetic_trace_014.txt",
+        "synthetic_trace_015.txt",
+        "synthetic_trace_016.txt",
+        "synthetic_trace_017.txt",
+        "synthetic_trace_018.txt",
+        "synthetic_trace_019.txt",
+        "synthetic_trace_020.txt",
+        "synthetic_trace_021.txt",
+        "synthetic_trace_022.txt",
+        "synthetic_trace_023.txt",
+        "synthetic_trace_024.txt",
+        "synthetic_trace_025.txt",
+        "synthetic_trace_026.txt",
+        "synthetic_trace_027.txt",
+        "synthetic_trace_028.txt",
+        "synthetic_trace_029.txt",
+        "synthetic_trace_030.txt",
+        "synthetic_trace_031.txt",
+        "synthetic_trace_032.txt",
+        "synthetic_trace_033.txt",
+        "synthetic_trace_034.txt",
+        "synthetic_trace_035.txt",
+        "synthetic_trace_036.txt",
+        "synthetic_trace_037.txt",
+        "synthetic_trace_038.txt",
+        "synthetic_trace_039.txt",
+        "synthetic_trace_040.txt"
+      ],
+      "file_count": 40,
+      "size_mb": 0.13
+    },
+    "synthetic_viewport": {
+      "files": [
+        "synthetic_viewport_001.csv",
+        "synthetic_viewport_002.csv",
+        "synthetic_viewport_003.csv",
+        "synthetic_viewport_004.csv",
+        "synthetic_viewport_005.csv",
+        "synthetic_viewport_006.csv",
+        "synthetic_viewport_007.csv",
+        "synthetic_viewport_008.csv",
+        "synthetic_viewport_009.csv",
+        "synthetic_viewport_010.csv",
+        "synthetic_viewport_011.csv",
+        "synthetic_viewport_012.csv",
+        "synthetic_viewport_013.csv",
+        "synthetic_viewport_014.csv",
+        "synthetic_viewport_015.csv",
+        "synthetic_viewport_016.csv",
+        "synthetic_viewport_017.csv",
+        "synthetic_viewport_018.csv",
+        "synthetic_viewport_019.csv",
+        "synthetic_viewport_020.csv"
+      ],
+      "file_count": 20,
+      "size_mb": 0.17
+    },
+    "webrtc_traces": {
+      "files": [],
+      "file_count": 0,
+      "size_mb": 0.0
+    }
+  },
+  "total_size_mb": 0.49
+}

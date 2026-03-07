@@ -1,0 +1,12 @@
+{
+  "experiment_date": "2026-02-08T18:16:24.594445",
+  "n_runs": 300,
+  "duration": 100.0,
+  "total_simulations": 3600,
+  "data_sources": [
+    "360_viewport",
+    "hsdpa_traces",
+    "synthetic_traces",
+    "synthetic_viewport"
+  ]
+}
